@@ -1,0 +1,11 @@
+GET http://localhost:8080/prop
+Accept: application/json
+
+###
+{
+  "prop1": "api-prop1",
+  "prop2": "app-prop2",
+  "prop3": "local-prop3",
+  "prop4": "app-prop4",
+  "prop5": "api-prop5"
+}
